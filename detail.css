@@ -1,0 +1,27 @@
+.detailcat{
+text-align: center;
+font-size: 50px;
+ color: lightgreen;
+ margin-bottom: 30px;
+}
+
+.img{
+    /* height: 400px;
+    width: 400px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.both{
+    clear: both;
+}
+
+.margin{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: lightcoral;
+    margin-left: 30px;
+    margin-right: 30px;
+}
